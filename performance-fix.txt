@@ -1,0 +1,7 @@
+performance
+code
+start performance
+{
+	performance++;
+}
+
