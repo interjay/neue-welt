@@ -4,4 +4,6 @@ start performance
 {
 	performance++;
 }
+;
+
 
